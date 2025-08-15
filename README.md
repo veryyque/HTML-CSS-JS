@@ -1,2 +1,2 @@
-# HTML-CSS-JS
-My projects for web design
+# Pipernet
+Website for a created Pipernet project that was made during stepik course from presented Figma design
