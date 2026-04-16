@@ -1,2 +1,2 @@
 # HTML-CSS-JS
-My projects for web design
+My projects for web design (in branches)
